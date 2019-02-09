@@ -4,13 +4,14 @@ A website to showcase my lookbook and fashion taste. It also links to my pintere
 Website Link: https://lookbook.griffithstites.com
 
 ### To Do
-* Update category names throughout html code
-* Copy header from index to other html pages
+* Update favicon
+* Spell check about me
 * Update website title image (Currently MiniPo)
-* Update about me
 * Change cover photo text, text location, and design
-* Add look page for looks that are not mine (Maybe favorite from pinterest - could also blog this)
-* Add blogs and reviews page
-* Add contact page
+* Add google analytics
+* Update social media links at footer and add youtube
+* Test 404 error
+* Test contact
+* Add personal website in about me - See my engineering side
 * Update cover photo
 * Update photos on lookbook and front page
