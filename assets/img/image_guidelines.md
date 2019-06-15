@@ -6,3 +6,4 @@
 * Can utilize the Photoshop Image Processer Script
 
 ## Icons
+* Original icon was 96x21
