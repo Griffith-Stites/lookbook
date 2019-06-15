@@ -15,3 +15,4 @@ Website Link: https://lookbook.griffithstites.com
 * Add personal website in about me - See my engineering side
 * Update cover photo
 * Update photos on lookbook and front page
+* Update slider image to have face in center
