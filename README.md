@@ -1,10 +1,8 @@
 ## Griffith Stites fashion website and lookbook
-A website to showcase my lookbook and fashion taste. It also links to my pinterest and fashion instagram.
-
+A website to showcase my lookbook and fashion taste. Will also contain gender poetry written by me.
 Website Link: https://lookbook.griffithstites.com
 
 ### To Do
-* Update favicon
 * Spell check about me
 * Update website title image (Currently MiniPo)
 * Change cover photo text, text location, and design
@@ -16,3 +14,5 @@ Website Link: https://lookbook.griffithstites.com
 * Update cover photo
 * Update photos on lookbook and front page
 * Update slider image to have face in center
+* Update trans visibility clothing items
+* Add flowers as item to 6_14_19
