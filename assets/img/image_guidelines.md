@@ -5,5 +5,8 @@
 * Cover Images: 3:4 aspect ratio as JPG 50% quality
 * Can utilize the Photoshop Image Processer Script
 
+## Poetry
+* 1:1 Ratio
+
 ## Icons
 * Original icon was 96x21
