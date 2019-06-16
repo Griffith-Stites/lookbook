@@ -15,6 +15,5 @@ Website Link: https://they.griffithstites.com
 * Update photos on lookbook and front page
 * Update slider image to have face in center
 * Update trans visibility clothing items
-* Add flowers as item to 6_14_19
 * How to contribute
 * Enable https
