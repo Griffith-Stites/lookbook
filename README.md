@@ -7,7 +7,6 @@ Website Link: https://they.griffithstites.com
 * Update website title image (Currently MiniPo)
 * Change cover photo text, text location, and design
 * Add google analytics
-* Update social media links at footer and add youtube
 * Test 404 error
 * Test contact
 * Add personal website in about me - See my engineering side
