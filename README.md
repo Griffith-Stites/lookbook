@@ -16,3 +16,5 @@ Website Link: https://they.griffithstites.com
 * Update trans visibility clothing items
 * How to contribute
 * Enable https
+* Add link to completed zines on the poetry page
+  * Could also have a resources page with this on it. Could then also have the booklets.
