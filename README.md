@@ -17,3 +17,4 @@ Website Link: https://they.griffithstites.com
 * Update trans visibility clothing items
 * Add flowers as item to 6_14_19
 * How to contribute
+* Enable https
