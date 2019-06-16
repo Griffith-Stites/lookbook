@@ -1,6 +1,6 @@
-## Griffith Stites fashion website and lookbook
-A website to showcase my lookbook and fashion taste. Will also contain gender poetry written by me.
-Website Link: https://lookbook.griffithstites.com
+## they project
+A website with a lookbook and poetry created by Griffith Stites. Meant to show the true lived experiences of a non-binary individual through an artistic and creative lens. The goal of this project is to provide validation for gender non-conforming and transgender people and their experiences, as well as helping to fight gender norms.
+Website Link: https://they.griffithstites.com
 
 ### To Do
 * Spell check about me
@@ -16,3 +16,4 @@ Website Link: https://lookbook.griffithstites.com
 * Update slider image to have face in center
 * Update trans visibility clothing items
 * Add flowers as item to 6_14_19
+* How to contribute
