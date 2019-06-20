@@ -15,3 +15,4 @@ Website Link: https://they.griffithstites.com
 * Resources will have internal link to read the booklets
   * WIll also have link to download and run the video game
 * Fix aspect ratio of trans visibility picture
+* Add lipstick to lookbook items
