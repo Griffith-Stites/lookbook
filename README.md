@@ -12,3 +12,5 @@ Website Link: https://they.griffithstites.com
   * Could also have a resources page with this on it. Could then also have the booklets.
 * Compress images - use https://gtmetrix.com
 * Add self image to contact me and about me
+* Resources will have internal link to read the booklets
+  * WIll also have link to download and run the video game
