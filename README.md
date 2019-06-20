@@ -3,6 +3,7 @@ A website with a lookbook and poetry created by Griffith Stites. Meant to show t
 Website Link: https://they.griffithstites.com
 
 ### To Do
+* Update dress images
 * Spell check about me
 * Update website title image (Currently MiniPo)
 * Change cover photo text, text location, and design
