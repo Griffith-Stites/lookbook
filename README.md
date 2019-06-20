@@ -14,3 +14,4 @@ Website Link: https://they.griffithstites.com
 * Add self image to contact me and about me
 * Resources will have internal link to read the booklets
   * WIll also have link to download and run the video game
+* Fix aspect ratio of trans visibility picture
