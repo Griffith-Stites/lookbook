@@ -3,19 +3,12 @@ A website with a lookbook and poetry created by Griffith Stites. Meant to show t
 Website Link: https://they.griffithstites.com
 
 ### To Do
-* Update dress images
+* Update dress poetry images
 * Spell check about me
-* Update website title image (Currently MiniPo)
 * Change cover photo text, text location, and design
 * Add google analytics
 * Test 404 error
-* Test contact
 * Add personal website in about me - See my engineering side
-* Update cover photo
-* Update photos on lookbook and front page
-* Update slider image to have face in center
-* Update trans visibility clothing items
 * How to contribute
-* Enable https
 * Add link to completed zines on the poetry page
   * Could also have a resources page with this on it. Could then also have the booklets.
