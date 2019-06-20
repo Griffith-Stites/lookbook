@@ -6,7 +6,7 @@ a,a:focus,a:hover,a>*{
     outline:0
 }
 body,p{
-    font-size:14px;
+    font-size:16px; /*Default <p> body text*/
     line-height:22px
 }
 .overlay:before,.social-icon.style1 li a::after{
@@ -549,7 +549,7 @@ label{
     margin:0
 }
 .input-field label.active,.mainmenu li a{
-    font-size:12px
+    font-size:16px /*this is the link text size for the page links*/
 }
 i[class^=flaticon-]{
     line-height:50px;
@@ -2501,4 +2501,3 @@ footer .left p,footer .left p a{
     -webkit-box-shadow:0 0 5px rgba(0,0,0,.3);
     box-shadow:0 0 5px rgba(0,0,0,.3)
 }
- 
