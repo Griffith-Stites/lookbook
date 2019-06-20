@@ -4,12 +4,9 @@ Website Link: https://they.griffithstites.com
 
 ### To Do
 * Update dress poetry images
-* Change cover photo text, text location, and design
 * Add google analytics
 * Test 404 error
 * Add personal website in about me - See my engineering side
 * How to contribute
 * Add link to completed zines on the poetry page
   * Could also have a resources page with this on it. Could then also have the booklets.
-* Add poetry to the main poetry page
-* Reorder poetry
