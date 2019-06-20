@@ -11,3 +11,5 @@ Website Link: https://they.griffithstites.com
 * How to contribute
 * Add link to completed zines on the poetry page
   * Could also have a resources page with this on it. Could then also have the booklets.
+* Add poetry to the main poetry page
+* Reorder poetry
