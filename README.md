@@ -4,7 +4,6 @@ Website Link: https://they.griffithstites.com
 
 ### To Do
 * Update dress poetry images
-* Spell check about me
 * Change cover photo text, text location, and design
 * Add google analytics
 * Test 404 error
