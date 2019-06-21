@@ -11,3 +11,4 @@ Website Link: https://they.griffithstites.com
 * Add link to completed zines on the poetry page
   * Could also have a resources page with this on it. Could then also have the booklets.
 * Compress images - use https://gtmetrix.com
+* Add self image to contact me and about me
