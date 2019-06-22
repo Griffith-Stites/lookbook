@@ -2,9 +2,9 @@
 
 ## Look book
 * Detail images: 3:4 aspect ratio as JPG 50% quality
-  * Should be 1560 tall
+  * Should be 1170x1560
 * Cover Images: 3:4 aspect ratio as JPG 50% quality
-  * Should be 767 tall
+  * Should be 575x767
 * Can utilize the Photoshop Image Processor Script
 
 ## Poetry
