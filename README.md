@@ -8,3 +8,4 @@ Website Link: (they.mstites.com)[https://they.mstites.com]
 * Add link to completed zines on the poetry page
 * Add self image to contact me and about me
 * Make accessible version of the lgbt books
+* Remove mirred html text
